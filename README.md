@@ -1,4 +1,5 @@
 # Risk Prediction
+![credit-risk](https://github.com/Djachechi/Machine-Learning/blob/master/Images/credit-risk.jpg)
 
 Mortgages, student and auto loans, and debt consolidation are just a few examples of credit and loans that people seek online. Peer-to-peer lending services such as Loans Canada and Mogo let investors loan people money without using a bank. However, because investors always want to mitigate risk, machine learning will be used as a technique to predict credict risk.
 
